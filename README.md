@@ -1,1 +1,1 @@
-# proxy
+# vercel-proxy
